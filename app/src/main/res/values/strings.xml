@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyList</string>
+    <string-array name="name">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>cake</item>
+        <item>Chocolat</item>
+        <item>Milk</item>
+        <item>Gateau</item>
+        <item>Nougat</item>
+        <item>Vanille</item>
+        <item>Bonbon</item>
+        <item>Sugar</item>
+        <item>Ice Cream</item>
+        <item>Milkshake</item>
+        <item>Honey</item>
+        <item>Sunshine</item>
+    </string-array>
+    <string-array name="des">
+        <item>Version : 1</item>
+        <item>Version : 2</item>
+        <item>Version : 3</item>
+        <item>Version : 4</item>
+        <item>Version : 5</item>
+        <item>Version : 6</item>
+        <item>Version : 7</item>
+        <item>Version : 8</item>
+        <item>Version : 9</item>
+        <item>Version : 10</item>
+        <item>Version : 11</item>
+        <item>Version : 12</item>
+        <item>Version : 13</item>
+        <item>Version : 14</item>
+        <item>Version : 15</item>
+    </string-array>
+</resources>
