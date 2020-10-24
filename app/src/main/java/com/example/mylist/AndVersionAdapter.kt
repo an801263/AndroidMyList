@@ -27,7 +27,6 @@ class AndVersionAdapter(val items: Array<AndVersion>) :
                 andVersionTxt.text = "$name"
                 description.text = "$des"
                 itemView.andVersionImg.setImageResource(img)
-                //andVersionImg.setOnClickListener { itemView.context.toast("$name")}
             }
         }
     }
